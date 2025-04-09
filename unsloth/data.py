@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: AGPL-3.0-or-later
 # Unsloth Studio
 # Copyright (C) 2025-present the Unsloth AI team. All rights reserved.
 
